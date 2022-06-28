@@ -1,4 +1,23 @@
 {
-    "User": "[]",
-    "Post": "[]"
+    "user": [
+        {
+            "username": "Bob",
+            "email": "bob@gmail.com",
+            "postcount": 2
+        }
+    ],
+    "post": [
+        {
+            "title": "asdf",
+            "createdBy": "Bob",
+            "content": "hello",
+            "id": "927e3fc9-bd3b-4338-869e-9f28c36ba18d"
+        },
+        {
+            "title": "qwerty",
+            "createdBy": "Bob",
+            "content": "hi",
+            "id": "ef303d84-383d-4c05-911a-66b6c2d2fb7e"
+        }
+    ]
 }
